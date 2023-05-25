@@ -1,0 +1,58 @@
+CRITICAL - 2022-12-13 09:16:45 --> Invalid file: errors/html/error_401.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('errors/html/error_401.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('errors/html/error_401', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(42): view('errors/html/error_401')
+ 4 APPPATH\Controllers\Visiteur.php(77): App\Controllers\Visiteur->unauthorizedAccess()
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->voirMaFiche('202205')
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 09:17:27 --> Invalid file: errors/html/error_401.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('errors/html/error_401.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('errors/html/error_401', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(42): view('errors/html/error_401')
+ 4 APPPATH\Controllers\Visiteur.php(77): App\Controllers\Visiteur->unauthorizedAccess()
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->voirMaFiche('202205')
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 09:18:03 --> Invalid file: errors/html/error_401.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('errors/html/error_401.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('errors/html/error_401', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(42): view('errors/html/error_401')
+ 4 APPPATH\Controllers\Visiteur.php(77): App\Controllers\Visiteur->unauthorizedAccess()
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->voirMaFiche('202205')
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 09:18:45 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Visiteur.php(53): CodeIgniter\Model->__call('getLeStatut', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 09:25:08 --> You must set the database table to be used with your query.
+in SYSTEMPATH\Database\BaseConnection.php on line 845.
+ 1 SYSTEMPATH\Model.php(587): CodeIgniter\Database\BaseConnection->table(null)
+ 2 SYSTEMPATH\Model.php(764): CodeIgniter\Model->builder()
+ 3 APPPATH\Controllers\Visiteur.php(53): CodeIgniter\Model->__call('getLeStatut', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-13 09:32:44 --> syntax error, unexpected ':', expecting ';' or ','
+in APPPATH\Views\l_visiteur.php on line 28.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->render('l_visiteur', [], true)
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_visiteurAccueil', [], true)
+ 4 APPPATH\Controllers\Visiteur.php(55): view('v_visiteurAccueil', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

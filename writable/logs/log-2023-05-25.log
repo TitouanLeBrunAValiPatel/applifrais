@@ -1,0 +1,27 @@
+CRITICAL - 2023-05-25 06:50:44 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-25 06:50:49 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-05-25 06:56:39 --> Invalid file: v_comptable/v_comptableVoirFiche.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptable/v_comptableVoirFiche.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptable/v_comptableVoirFiche', [], true)
+ 3 APPPATH\Controllers\Comptable.php(88): view('v_comptable/v_comptableVoirFiche', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->voirMaFiche('202302')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

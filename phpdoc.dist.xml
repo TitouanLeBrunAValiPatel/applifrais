@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<phpdocumentor
+    configVersion="3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="https://www.phpdoc.org"
+    xsi:noNamespaceSchemaLocation="https://docs.phpdoc.org/latest/phpdoc.xsd">
+		
+    <title>phpDocumentor</title>
+    <paths>
+        <output>.phpdoc</output>
+        <cache>.phpdoc/cache</cache>
+    </paths>
+    <version number="latest">
+        <api>
+            <ignore hidden="true" symlinks="true">
+                <path>system/**/*</path>
+                <path>public/**/*</path>
+                <path>writable/**/*</path>
+                <path>vendor/**/*</path>
+                <path>app/Config/**/*</path>
+            </ignore>
+            <extensions>
+                <extension>php</extension>
+            </extensions>
+        </api>
+    </version>
+    <setting name="graphs.enabled" value="false" />
+</phpdocumentor>

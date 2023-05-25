@@ -1,0 +1,328 @@
+CRITICAL - 2023-03-21 07:25:57 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 07:26:07 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 07:26:11 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 07:26:14 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 07:26:19 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 07:26:23 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 07:26:29 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 07:26:38 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 07:27:01 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 07:27:05 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 07:27:06 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 07:27:11 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 07:27:11 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 07:27:38 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 07:32:45 --> Invalid file: v_comptableAccueil.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('v_comptableAccueil.php')
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptableAccueil', [], true)
+ 3 APPPATH\Controllers\Visiteur.php(56): view('v_comptableAccueil', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Visiteur->index()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Visiteur))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 08:08:02 --> Undefined index: id
+in APPPATH\Views\v_comptable\v_comptableModFiche.php on line 135.
+ 1 APPPATH\Views\v_comptable\v_comptableModFiche.php(135): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: id', 'APPPATH\\Views\\v_comptable\\v_comptableModFiche.php', 135, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_comptable\\v_comptableModFiche.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptable/v_comptableModFiche', [], true)
+ 5 APPPATH\Controllers\Comptable.php(102): view('v_comptable/v_comptableModFiche', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->modMaFiche('202302')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 08:08:46 --> Array to string conversion
+in APPPATH\Views\v_comptable\v_comptableModFiche.php on line 134.
+ 1 APPPATH\Views\v_comptable\v_comptableModFiche.php(134): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Views\\v_comptable\\v_comptableModFiche.php', 134, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_comptable\\v_comptableModFiche.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptable/v_comptableModFiche', [], true)
+ 5 APPPATH\Controllers\Comptable.php(102): view('v_comptable/v_comptableModFiche', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->modMaFiche('202302')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 08:08:55 --> Array to string conversion
+in APPPATH\Views\v_comptable\v_comptableModFiche.php on line 134.
+ 1 APPPATH\Views\v_comptable\v_comptableModFiche.php(134): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Views\\v_comptable\\v_comptableModFiche.php', 134, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_comptable\\v_comptableModFiche.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptable/v_comptableModFiche', [], true)
+ 5 APPPATH\Controllers\Comptable.php(102): view('v_comptable/v_comptableModFiche', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->modMaFiche('202302')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 08:08:57 --> Array to string conversion
+in APPPATH\Views\v_comptable\v_comptableModFiche.php on line 134.
+ 1 APPPATH\Views\v_comptable\v_comptableModFiche.php(134): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Views\\v_comptable\\v_comptableModFiche.php', 134, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_comptable\\v_comptableModFiche.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptable/v_comptableModFiche', [], true)
+ 5 APPPATH\Controllers\Comptable.php(102): view('v_comptable/v_comptableModFiche', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->modMaFiche('202302')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 08:09:01 --> Array to string conversion
+in APPPATH\Views\v_comptable\v_comptableModFiche.php on line 134.
+ 1 APPPATH\Views\v_comptable\v_comptableModFiche.php(134): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Views\\v_comptable\\v_comptableModFiche.php', 134, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_comptable\\v_comptableModFiche.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptable/v_comptableModFiche', [], true)
+ 5 APPPATH\Controllers\Comptable.php(102): view('v_comptable/v_comptableModFiche', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->modMaFiche('202302')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 08:14:48 --> Array to string conversion
+in APPPATH\Views\v_comptable\v_comptableModFiche.php on line 134.
+ 1 APPPATH\Views\v_comptable\v_comptableModFiche.php(134): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string conversion', 'APPPATH\\Views\\v_comptable\\v_comptableModFiche.php', 134, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_comptable\\v_comptableModFiche.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptable/v_comptableModFiche', [], true)
+ 5 APPPATH\Controllers\Comptable.php(102): view('v_comptable/v_comptableModFiche', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->modMaFiche('202302')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 09:02:13 --> Cannot redeclare App\Models\ActionsComptable::signeFiche()
+in APPPATH\Models\ActionsComptable.php on line 161.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-03-21 09:04:06 --> Call to undefined method App\Controllers\Comptable::mesFiches()
+in APPPATH\Controllers\Comptable.php on line 121.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('202302')
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 09:05:16 --> Call to undefined method App\Controllers\Comptable::mesFiches()
+in APPPATH\Controllers\Comptable.php on line 121.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('202212')
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 09:08:50 --> Undefined variable: mesFiches
+in APPPATH\Views\v_comptable\v_comptableLesFiches.php on line 22.
+ 1 APPPATH\Views\v_comptable\v_comptableLesFiches.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: mesFiches', 'APPPATH\\Views\\v_comptable\\v_comptableLesFiches.php', 22, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_comptable\\v_comptableLesFiches.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptable/v_comptableLesFiches', [], true)
+ 5 APPPATH\Controllers\Comptable.php(121): view('v_comptable/v_comptableLesFiches', [])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('202212')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 09:21:12 --> Too few arguments to function App\Controllers\Comptable::signeLaFiche(), 1 passed in P:\Documents\AP\trunk\system\CodeIgniter.php on line 927 and exactly 2 expected
+in APPPATH\Controllers\Comptable.php on line 115.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('202212')
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 09:22:53 --> Too few arguments to function App\Controllers\Comptable::signeLaFiche(), 1 passed in P:\Documents\AP\trunk\system\CodeIgniter.php on line 927 and exactly 2 expected
+in APPPATH\Controllers\Comptable.php on line 115.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('202212')
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 09:30:37 --> Too few arguments to function App\Controllers\Comptable::refuseLaFiche(), 1 passed in P:\Documents\AP\trunk\system\CodeIgniter.php on line 927 and exactly 2 expected
+in APPPATH\Controllers\Comptable.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->refuseLaFiche('202211')
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 09:31:03 --> Too few arguments to function App\Controllers\Comptable::refuseLaFiche(), 1 passed in P:\Documents\AP\trunk\system\CodeIgniter.php on line 927 and exactly 2 expected
+in APPPATH\Controllers\Comptable.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->refuseLaFiche('202211')
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 10:18:23 --> Call to undefined function prompt()
+in APPPATH\Views\v_comptable\v_comptableLesFiches.php on line 29.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptable/v_comptableLesFiches', [], true)
+ 4 APPPATH\Controllers\Comptable.php(69): view('v_comptable/v_comptableLesFiches', [...])
+ 5 APPPATH\Controllers\Comptable.php(129): App\Controllers\Comptable->lesFiches('Fiche refusée 202211 a17.')
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->refuseLaFiche('a17', '202211')
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 10:46:03 --> Too few arguments to function App\Models\DataAccess::refuseFiche(), 2 passed in P:\Documents\AP\trunk\app\Models\ActionsComptable.php on line 89 and exactly 3 expected
+in APPPATH\Models\DataAccess.php on line 204.
+ 1 APPPATH\Models\ActionsComptable.php(89): App\Models\DataAccess->refuseFiche('a17', '202111')
+ 2 APPPATH\Controllers\Comptable.php(126): App\Models\ActionsComptable->refuseFiche('a17', '202111', 'refuseLaFiche')
+ 3 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->refuseLaFiche('a17', '202111', 'refuseLaFiche', 'a17', 'refuseLaFiche', 'a17', '202110', 'null')
+ 4 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 5 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 10:47:05 --> Undefined variable: comment
+in APPPATH\Models\DataAccess.php on line 294.
+ 1 APPPATH\Models\DataAccess.php(294): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: comment', 'APPPATH\\Models\\DataAccess.php', 294, [...])
+ 2 APPPATH\Models\DataAccess.php(208): App\Models\DataAccess->majEtatFicheFrais('a17', '202110', 'RE', 'null')
+ 3 APPPATH\Models\ActionsComptable.php(89): App\Models\DataAccess->refuseFiche('a17', '202110', 'null')
+ 4 APPPATH\Controllers\Comptable.php(126): App\Models\ActionsComptable->refuseFiche('a17', '202110', 'null')
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->refuseLaFiche('a17', '202110', 'null')
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 10:47:12 --> Undefined variable: comment
+in APPPATH\Models\DataAccess.php on line 294.
+ 1 APPPATH\Models\DataAccess.php(294): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: comment', 'APPPATH\\Models\\DataAccess.php', 294, [...])
+ 2 APPPATH\Models\DataAccess.php(208): App\Models\DataAccess->majEtatFicheFrais('a17', '202110', 'RE', 'xcvdsv')
+ 3 APPPATH\Models\ActionsComptable.php(89): App\Models\DataAccess->refuseFiche('a17', '202110', 'xcvdsv')
+ 4 APPPATH\Controllers\Comptable.php(126): App\Models\ActionsComptable->refuseFiche('a17', '202110', 'xcvdsv')
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->refuseLaFiche('a17', '202110', 'xcvdsv')
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 10:47:29 --> Undefined variable: comment
+in APPPATH\Models\DataAccess.php on line 294.
+ 1 APPPATH\Models\DataAccess.php(294): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: comment', 'APPPATH\\Models\\DataAccess.php', 294, [...])
+ 2 APPPATH\Models\DataAccess.php(208): App\Models\DataAccess->majEtatFicheFrais('a17', '202110', 'RE', 'null')
+ 3 APPPATH\Models\ActionsComptable.php(89): App\Models\DataAccess->refuseFiche('a17', '202110', 'null')
+ 4 APPPATH\Controllers\Comptable.php(126): App\Models\ActionsComptable->refuseFiche('a17', '202110', 'null')
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->refuseLaFiche('a17', '202110', 'null')
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 10:47:35 --> Undefined variable: comment
+in APPPATH\Models\DataAccess.php on line 294.
+ 1 APPPATH\Models\DataAccess.php(294): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: comment', 'APPPATH\\Models\\DataAccess.php', 294, [...])
+ 2 APPPATH\Models\DataAccess.php(208): App\Models\DataAccess->majEtatFicheFrais('a17', '202110', 'RE', 'sdfdsf')
+ 3 APPPATH\Models\ActionsComptable.php(89): App\Models\DataAccess->refuseFiche('a17', '202110', 'sdfdsf')
+ 4 APPPATH\Controllers\Comptable.php(126): App\Models\ActionsComptable->refuseFiche('a17', '202110', 'sdfdsf')
+ 5 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->refuseLaFiche('a17', '202110', 'sdfdsf')
+ 6 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 7 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:03:16 --> syntax error, unexpected end of file
+in APPPATH\Views\v_comptable\v_comptableLesFiches.php on line 48.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptable/v_comptableLesFiches', [], true)
+ 3 APPPATH\Controllers\Comptable.php(69): view('v_comptable/v_comptableLesFiches', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->lesFiches()
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-21 11:11:53 --> Too few arguments to function App\Models\DataAccess::majEtatFicheFrais(), 3 passed in P:\Documents\AP\trunk\app\Models\DataAccess.php on line 200 and exactly 4 expected
+in APPPATH\Models\DataAccess.php on line 292.
+ 1 APPPATH\Models\DataAccess.php(200): App\Models\DataAccess->majEtatFicheFrais('a17', '202012', 'VA')
+ 2 APPPATH\Models\ActionsComptable.php(83): App\Models\DataAccess->signeFiche('a17', '202012')
+ 3 APPPATH\Controllers\Comptable.php(118): App\Models\ActionsComptable->signeFiche('a17', '202012')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('a17', '202012')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

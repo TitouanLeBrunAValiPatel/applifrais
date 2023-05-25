@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/P:/Documents/AP/trunk/app/Views/v_comptable/v_comptableModFiche.php</file>
+            <file>file:/P:/Documents/AP/trunk/app/Controllers/Comptable.php</file>
+            <file>file:/P:/Documents/AP/trunk/app/Views/l_visiteur.php</file>
+            <file>file:/P:/Documents/AP/trunk/app/Views/v_visiteur/v_visiteurModFiche.php</file>
+            <file>file:/P:/Documents/AP/trunk/app/Controllers/Anonyme.php</file>
+            <file>file:/P:/Documents/AP/trunk/app/Views/v_visiteur/v_visiteurMesFiches.php</file>
+            <file>file:/P:/Documents/AP/trunk/public/js/index.js</file>
+            <file>file:/P:/Documents/AP/trunk/app/Models/DataAccess.php</file>
+            <file>file:/P:/Documents/AP/trunk/system/Helpers/url_helper.php</file>
+            <file>file:/P:/Documents/AP/trunk/app/Controllers/BaseController.php</file>
+            <file>file:/P:/Documents/AP/trunk/app/Views/v_comptable/v_comptableLesFiches.php</file>
+            <file>file:/P:/Documents/AP/trunk/app/Views/v_comptable/v_comptableAccueil.php</file>
+            <file>file:/P:/Documents/AP/trunk/app/Controllers/Visiteur.php</file>
+            <file>file:/P:/Documents/AP/trunk/app/Models/Authentif.php</file>
+            <file>file:/P:/Documents/AP/trunk/PHPDoc/index.html</file>
+            <file>file:/P:/Documents/AP/trunk/app/Models/ActionsVisiteur.php</file>
+            <file>file:/P:/Documents/AP/trunk/app/Views/v_connexion.php</file>
+            <file>file:/P:/Documents/AP/trunk/app/Views/l_comptable.php</file>
+            <file>file:/P:/Documents/AP/trunk/app/Views/v_visiteur/v_visiteurVoirFiche.php</file>
+            <file>file:/P:/Documents/AP/trunk/app/Views/l_connexion.php</file>
+            <file>file:/P:/Documents/AP/trunk/app/Models/ActionsComptable.php</file>
+        </group>
+    </open-files>
+</project-private>

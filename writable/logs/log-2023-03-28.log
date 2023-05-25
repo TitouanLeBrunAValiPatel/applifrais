@@ -1,0 +1,153 @@
+CRITICAL - 2023-03-28 06:08:54 --> Trying to access array offset on value of type null
+in APPPATH\Models\DataAccess.php on line 199.
+ 1 APPPATH\Models\DataAccess.php(199): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'APPPATH\\Models\\DataAccess.php', 199, [...])
+ 2 APPPATH\Models\ActionsComptable.php(83): App\Models\DataAccess->signeFiche('a17', 'refuseLaFiche')
+ 3 APPPATH\Controllers\Comptable.php(118): App\Models\ActionsComptable->signeFiche('a17', 'refuseLaFiche')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('a17', 'refuseLaFiche', 'a17', '202010')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:11:25 --> Trying to access array offset on value of type null
+in APPPATH\Models\DataAccess.php on line 199.
+ 1 APPPATH\Models\DataAccess.php(199): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'APPPATH\\Models\\DataAccess.php', 199, [...])
+ 2 APPPATH\Models\ActionsComptable.php(83): App\Models\DataAccess->signeFiche('a17', 'refuseLaFiche')
+ 3 APPPATH\Controllers\Comptable.php(118): App\Models\ActionsComptable->signeFiche('a17', 'refuseLaFiche')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('a17', 'refuseLaFiche', 'a17', '202009', 'rgrg')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:19:03 --> Trying to access array offset on value of type null
+in APPPATH\Models\DataAccess.php on line 207.
+ 1 APPPATH\Models\DataAccess.php(207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'APPPATH\\Models\\DataAccess.php', 207, [...])
+ 2 APPPATH\Models\ActionsComptable.php(89): App\Models\DataAccess->refuseFiche('a17', 'refuseLaFiche', 'a17')
+ 3 APPPATH\Controllers\Comptable.php(132): App\Models\ActionsComptable->refuseFiche('a17', 'refuseLaFiche', 'a17')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->refuseLaFiche('a17', 'refuseLaFiche', 'a17', '202009', 'gh')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:20:02 --> Trying to access array offset on value of type null
+in APPPATH\Models\DataAccess.php on line 199.
+ 1 APPPATH\Models\DataAccess.php(199): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'APPPATH\\Models\\DataAccess.php', 199, [...])
+ 2 APPPATH\Models\ActionsComptable.php(83): App\Models\DataAccess->signeFiche('a17', 'refuseLaFiche')
+ 3 APPPATH\Controllers\Comptable.php(118): App\Models\ActionsComptable->signeFiche('a17', 'refuseLaFiche')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('a17', 'refuseLaFiche', 'a17', '202008', 'null')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:20:19 --> Trying to access array offset on value of type null
+in APPPATH\Models\DataAccess.php on line 199.
+ 1 APPPATH\Models\DataAccess.php(199): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'APPPATH\\Models\\DataAccess.php', 199, [...])
+ 2 APPPATH\Models\ActionsComptable.php(83): App\Models\DataAccess->signeFiche('a17', 'refuseLaFiche')
+ 3 APPPATH\Controllers\Comptable.php(118): App\Models\ActionsComptable->signeFiche('a17', 'refuseLaFiche')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('a17', 'refuseLaFiche', 'a17', '202003', 'null')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:20:39 --> Trying to access array offset on value of type null
+in APPPATH\Models\DataAccess.php on line 199.
+ 1 APPPATH\Models\DataAccess.php(199): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'APPPATH\\Models\\DataAccess.php', 199, [...])
+ 2 APPPATH\Models\ActionsComptable.php(83): App\Models\DataAccess->signeFiche('a17', 'refuseLaFiche')
+ 3 APPPATH\Controllers\Comptable.php(118): App\Models\ActionsComptable->signeFiche('a17', 'refuseLaFiche')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('a17', 'refuseLaFiche', 'a17', '202008', 'iui')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:23:08 --> Undefined variable: commentaire
+in APPPATH\Views\v_comptable\v_comptableLesFiches.php on line 29.
+ 1 APPPATH\Views\v_comptable\v_comptableLesFiches.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: commentaire', 'APPPATH\\Views\\v_comptable\\v_comptableLesFiches.php', 29, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_comptable\\v_comptableLesFiches.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptable/v_comptableLesFiches', [], true)
+ 5 APPPATH\Controllers\Comptable.php(69): view('v_comptable/v_comptableLesFiches', [...])
+ 6 APPPATH\Controllers\Comptable.php(120): App\Controllers\Comptable->lesFiches('Fiche validée 202009 a17.')
+ 7 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('a17', '202009')
+ 8 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 9 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:23:10 --> Undefined variable: commentaire
+in APPPATH\Views\v_comptable\v_comptableLesFiches.php on line 29.
+ 1 APPPATH\Views\v_comptable\v_comptableLesFiches.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: commentaire', 'APPPATH\\Views\\v_comptable\\v_comptableLesFiches.php', 29, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_comptable\\v_comptableLesFiches.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptable/v_comptableLesFiches', [], true)
+ 5 APPPATH\Controllers\Comptable.php(69): view('v_comptable/v_comptableLesFiches', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->lesFiches()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:23:15 --> Undefined variable: commentaire
+in APPPATH\Views\v_comptable\v_comptableLesFiches.php on line 29.
+ 1 APPPATH\Views\v_comptable\v_comptableLesFiches.php(29): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined variable: commentaire', 'APPPATH\\Views\\v_comptable\\v_comptableLesFiches.php', 29, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_comptable\\v_comptableLesFiches.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptable/v_comptableLesFiches', [], true)
+ 5 APPPATH\Controllers\Comptable.php(69): view('v_comptable/v_comptableLesFiches', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->lesFiches()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:31:41 --> Trying to access array offset on value of type null
+in APPPATH\Models\DataAccess.php on line 199.
+ 1 APPPATH\Models\DataAccess.php(199): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'APPPATH\\Models\\DataAccess.php', 199, [...])
+ 2 APPPATH\Models\ActionsComptable.php(83): App\Models\DataAccess->signeFiche('a17', 'comptable')
+ 3 APPPATH\Controllers\Comptable.php(118): App\Models\ActionsComptable->signeFiche('a17', 'comptable')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('a17', 'comptable', 'refuseLaFiche', 'a17', '202007', '!')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:37:33 --> Trying to access array offset on value of type null
+in APPPATH\Models\DataAccess.php on line 199.
+ 1 APPPATH\Models\DataAccess.php(199): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'APPPATH\\Models\\DataAccess.php', 199, [...])
+ 2 APPPATH\Models\ActionsComptable.php(83): App\Models\DataAccess->signeFiche('a17', 'applifrais.local')
+ 3 APPPATH\Controllers\Comptable.php(118): App\Models\ActionsComptable->signeFiche('a17', 'applifrais.local')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('a17', 'applifrais.local')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:39:24 --> Trying to access array offset on value of type null
+in APPPATH\Models\DataAccess.php on line 207.
+ 1 APPPATH\Models\DataAccess.php(207): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'APPPATH\\Models\\DataAccess.php', 207, [...])
+ 2 APPPATH\Models\ActionsComptable.php(89): App\Models\DataAccess->refuseFiche('a17', 'refuseLaFiche', 'a17')
+ 3 APPPATH\Controllers\Comptable.php(132): App\Models\ActionsComptable->refuseFiche('a17', 'refuseLaFiche', 'a17')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->refuseLaFiche('a17', 'refuseLaFiche', 'a17', '202005', 'null')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 06:43:57 --> Trying to access array offset on value of type null
+in APPPATH\Models\DataAccess.php on line 199.
+ 1 APPPATH\Models\DataAccess.php(199): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'APPPATH\\Models\\DataAccess.php', 199, [...])
+ 2 APPPATH\Models\ActionsComptable.php(83): App\Models\DataAccess->signeFiche('a17', 'comptable')
+ 3 APPPATH\Controllers\Comptable.php(118): App\Models\ActionsComptable->signeFiche('a17', 'comptable')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('a17', 'comptable', 'refuseLaFiche', 'a17', '202001', 'sdvs')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 07:27:21 --> Trying to access array offset on value of type null
+in APPPATH\Models\DataAccess.php on line 199.
+ 1 APPPATH\Models\DataAccess.php(199): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'APPPATH\\Models\\DataAccess.php', 199, [...])
+ 2 APPPATH\Models\ActionsComptable.php(83): App\Models\DataAccess->signeFiche('a17', 'refuseLaFiche')
+ 3 APPPATH\Controllers\Comptable.php(118): App\Models\ActionsComptable->signeFiche('a17', 'refuseLaFiche')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('a17', 'refuseLaFiche', 'a17', '201911', 'vcxvx')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 07:34:12 --> Trying to access array offset on value of type null
+in APPPATH\Models\DataAccess.php on line 199.
+ 1 APPPATH\Models\DataAccess.php(199): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Trying to access array offset on value of type null', 'APPPATH\\Models\\DataAccess.php', 199, [...])
+ 2 APPPATH\Models\ActionsComptable.php(83): App\Models\DataAccess->signeFiche('a17', 'refuseLaFiche')
+ 3 APPPATH\Controllers\Comptable.php(118): App\Models\ActionsComptable->signeFiche('a17', 'refuseLaFiche')
+ 4 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->signeLaFiche('a17', 'refuseLaFiche', 'a17', '201907', 'ffsdf')
+ 5 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 6 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-28 07:46:28 --> Undefined index: login
+in APPPATH\Views\v_comptable\v_comptableLesFiches.php on line 34.
+ 1 APPPATH\Views\v_comptable\v_comptableLesFiches.php(34): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index: login', 'APPPATH\\Views\\v_comptable\\v_comptableLesFiches.php', 34, [...])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\v_comptable\\v_comptableLesFiches.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1134): CodeIgniter\View\View->render('v_comptable/v_comptableLesFiches', [], true)
+ 5 APPPATH\Controllers\Comptable.php(69): view('v_comptable/v_comptableLesFiches', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Comptable->lesFiches()
+ 7 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Comptable))
+ 8 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
